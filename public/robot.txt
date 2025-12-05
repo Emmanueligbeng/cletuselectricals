@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cletuselectricals.vercel.app/sitemap.xml
