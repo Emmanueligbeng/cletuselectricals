@@ -59,7 +59,7 @@
 .hero {
   position: relative;
   height: 100vh;
-  background: url('../assets/hero.jpg') center/cover no-repeat;
+  background: url('../assets/hero2.jpg') center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: flex-start;
